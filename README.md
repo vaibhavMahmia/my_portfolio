@@ -7,7 +7,7 @@ Welcome! I'm a React developer with experience in building clean, responsive, an
 ## 🌍 Country Info App
 Get real-time information about countries using REST APIs. Responsive, dynamic routing with React.
 
-🔗 Live: [vaibhav-atlas-m.netlify.app/country](https://vaibhav-atlas-m.netlify.app)
+🔗 Live: [vaibhav-atlas-m.netlify.app](https://vaibhav-atlas-m.netlify.app)
 
 ---
 
